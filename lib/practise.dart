@@ -21,4 +21,24 @@ int add(int no1, int no2){
   return sum;
 }
 
+///void main() {
+//   int no1, no2, sum;
+//
+//   stdout.write("Enter no1: ");
+//   String value1 = stdin.readLineSync() ?? "0"; //"56" -> 56
+//
+//   stdout.write("Enter no2: ");
+//   String value2 = stdin.readLineSync() ?? "0";
+//
+//   print(value1 + value2);
+//
+//   stdout.write("Hello\n");
+//
+//   no1 = int.parse(value1); //"0-9"
+//   no2 = int.parse(value2);
+//   sum = no1 + no2;
+//
+//   stdout.write("\tThe sum of $no1 and $no2 is $sum\n");
+// }
+
 
