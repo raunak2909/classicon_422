@@ -42,6 +42,14 @@ int sub(int no1, int no2) => no1-no2;
 ///Task 5: Write a program to check if the no is ODD or EVEN
 ///TASK 6: Write a program to check if the year is LEAP year or not
 /// Arithmetic operations (+ , - , * , /, %)
+///TASK 7: Write a Program to calculate the area of a triangle
+///TASK 8: Write a Program to calculate the area of a Rectangle
+///TASK 9: Write a Program to calculate the area of a Circle
+///TASK 10: Write a Program to calculate the circumference of a Circle
+///TASK 11: Write a Program to find if the no is a Prime no or not
+///TASK 12: Write a Program to find if the no is Armstrong or not ///153
+///TASK 13: Write a Program to print fibonacci series ///0, 1, 1, 2, 3, 5, 8, 13, 21..
+///TASK 14: Write a Program to check if the given no/name is Palindrome ///121, 12321, Nitin, arora...
 
 ///5%2 -> 1
 ///5/2 -> 2.5
