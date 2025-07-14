@@ -40,10 +40,6 @@ void main(){
   print(names.isEmpty);
   print(names.isNotEmpty);
 
-  /*for(int i = 0; i<names.length; i++){
-    print("$i. ${names[i]}");
-  }*/
-
 
   print(names.reversed.toList());
 
